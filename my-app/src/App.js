@@ -52,24 +52,24 @@ function App() {
     <ThemeProvider theme={theme}>
     <Grid container spacing={1} direction="column" justifyContent="center" alignItems="center" style={{ minHeight: '100vh' }}>
       <Grid item xs={5}>
-            <Typography color="white" variant="h1">
+            <Typography color="white" align="center" variant="h1">
               Tom Bailey
             </Typography>
        </Grid>
        <Grid item xs={5}>
-         <Typography color="white" variant="h2">
+         <Typography color="white" align="center" variant="h2">
            Welcome to my website!
          </Typography>
        </Grid>
        <Grid item xs={5}>
          <Stack direction="row" spacing={0}>
-           <Typography color="white" variant="h5">
+           <Typography color="white" align="center" variant="h5">
              🚧👷Currently under construction - please check back later.
            </Typography>
          </Stack>
        </Grid>
        <Grid item xs={5}>
-           <Typography color="#999999" variant="h6">
+           <Typography color="#999999" align="center" variant="h6">
              ⚛️Built with React.js.
            </Typography>
        </Grid>
