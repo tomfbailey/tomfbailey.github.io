@@ -10,7 +10,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-document.body.style = 'background: #414358;';
+document.body.style = 'background: #000000;';
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
