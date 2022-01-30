@@ -58,13 +58,13 @@ function App() {
        </Grid>
        <Grid item xs={5}>
          <Typography color="white" align="center" variant="h2">
-           Welcome to my website!
+           Welcome to my website.
          </Typography>
        </Grid>
        <Grid item xs={5}>
          <Stack direction="row" spacing={0}>
            <Typography color="white" align="center" variant="h5">
-             🚧👷Currently under construction - please check back later.
+             🚧👷Currently under construction - please check back later!
            </Typography>
          </Stack>
        </Grid>
